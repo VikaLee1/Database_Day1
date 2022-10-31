@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="sqN6sj03swzDzMJLdvZv" name="Step1 - Purpose">
+        <mxGraphModel dx="963" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="2bwtIFUamGbnMCc1PRlx" name="Step3 - ER Model">
+        <mxGraphModel dx="963" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="f0cj3jS-cHv5d6CBKeGs-0"/>
+                <mxCell id="f0cj3jS-cHv5d6CBKeGs-1" parent="f0cj3jS-cHv5d6CBKeGs-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="mvBX0g-oHQcn9jjx8CKi" name="Step3 - UML">
+        <mxGraphModel dx="963" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="YtUZODaxf0h6l96BEvxZ-0"/>
+                <mxCell id="YtUZODaxf0h6l96BEvxZ-1" parent="YtUZODaxf0h6l96BEvxZ-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="tpUwsDBQioNxLrZs2tG2" name="Step4 - Refine">
+        <mxGraphModel dx="963" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="QXaf4KAxP9KPgD_Xu7vE-0"/>
+                <mxCell id="QXaf4KAxP9KPgD_Xu7vE-1" parent="QXaf4KAxP9KPgD_Xu7vE-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
